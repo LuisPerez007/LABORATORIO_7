@@ -4,27 +4,26 @@
      mantener los nombres dados
   */
  
+class WordToWord {}
 
-  class word_to_word {}
+interface Props {}
 
-  interface props {}
+type Moves = {}
 
-  type moves = {}
+function getFood() {}
 
-  function GET_FOOD() {}
+function setProductName() {}
 
-  function SETPRODUCTNAME() {}
+type Directions = {}
 
-  type directions = {}
+interface IDBProps {}
 
-  interface IDBPROPS {}
-
-  class ATOBTOC {}
+class AtoBtoC {}
 
   // los 2 valores siguientes son constantes.
 
-  const constant_one = 3;
+  const constantOne = 3;
 
-  let constant_two = 4;
+  let constantTwo = 4;
 
 })();
